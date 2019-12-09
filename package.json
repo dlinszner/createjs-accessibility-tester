@@ -47,7 +47,7 @@
     "image-webpack-loader": "4.6.0",
     "webpack": "4.7.0",
     "webpack-cli": "3.2.3",
-    "webpack-dev-server": "3.2.1"
+    "webpack-dev-server": "3.9.0"
   },
   "dependencies": {
     "@curriculumassociates/createjs-accessibility": "^1.0.0-prerelease.5",
